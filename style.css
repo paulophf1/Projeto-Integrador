@@ -42,5 +42,15 @@ h2{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #F1F1F1;
 }
-
-
+#cad{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #F1F1F1;
+  margin-left: 1px;
+}
+input{
+  margin-left: 2px;
+}
+button{
+  margin-left: 2px;
+  color: rgb(250, 116, 7);
+}
