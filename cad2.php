@@ -13,7 +13,7 @@
 
   $total = mysqli_num_rows($exec);
   if($total == 1){
-    header("Location: index.html?email=$email");
+    header("Location: index.php?email=$email");
   }else{
   
     
@@ -23,7 +23,7 @@
   setcookie("endereco", $endereco, time()+60*60*24);
   setcookie("telefone", $telefone, time()+60*60*24);
   setcookie("email", $email, time()+60*60*24);
-  header("Refresh:3 index.html");
+  header("Refresh:3 index.php");
    echo "Usuário cadastrado com sucesso!";
   
   }

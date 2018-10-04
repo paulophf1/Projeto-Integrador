@@ -16,15 +16,15 @@
     <header>
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
             <!-- Brand/logo -->
-            <a class="navbar-brand" href="index.html">Personal Fitness</a>
+            <a class="navbar-brand" href="index.php">Personal Fitness</a>
 
             <!-- Links -->
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="plan.html">Planos</a>
+                    <a class="nav-link" href="plan.php">Planos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="qsm.html">Quem Somos</a>
+                    <a class="nav-link" href="qsm.php">Quem Somos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="cad.php">Cadastre-se</a>
