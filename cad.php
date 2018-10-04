@@ -39,11 +39,11 @@
             <form method="post" action="cad2.php">
                 <div class="form-group">
                     <label for="name">Nome:</label>
-                    <input type="name" class="form-control" id="name" placeholder="Enter name" name="name">
+                    <input type="name" class="form-control" id="name" placeholder="Enter name" name="nome">
                 </div>
                 <div class="form-group">
-                    <label for="endereço">Endereço:</label>
-                    <input type="endereço" class="form-control" id="endereço" placeholder="Enter endereço" name="endereço">
+                    <label for="endereco">Endereço:</label>
+                    <input type="endereco" class="form-control" id="endereço" placeholder="Enter endereço" name="endereco">
                 </div>
                 <div class="form-group">
                     <label for="telefone">Telefone:</label>
@@ -59,10 +59,9 @@
         </div>
     </div>
   </body>
-
- <footer >
- </footer>
- <p></p>    
- <center><h6> 2018 academia Personal Fitness - Santa Cruz</h6></center>
- 
+  <footer >
+      <p></p>
+       <center><h6> 2018 academia Personal Fitness - Santa Cruz</h6></center>
+  </footer>
 </html>
+      

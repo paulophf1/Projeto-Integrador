@@ -1,6 +1,6 @@
 <?php
-    $nome = strip_tags ($_POST['nome']);
-    $endereço = strip_tags($_POST['endereço']);
+    $nome = strip_tags($_POST['nome']);
+    $endereco = strip_tags($_POST['endereco']);
     $telefone = strip_tags($_POST['telefone']);
     $email = strip_tags ($_POST['email']);
   
@@ -17,13 +17,14 @@
   }else{
   
     
-  $query = "insert into alunos(nome, endereço, telefone, email) values ('$nome', '$endereço', '$telefone', '$email')";
+  $query = "insert into alunos(nome, endereco, telefone, email) values ('$nome', '$endereco', '$telefone', '$email')";
   mysqli_query($con,$query);
   setcookie("nome", $nome, time()+60*60*24);
-  setcookie("endereço", $endereço, time()+60*60*24);
+  setcookie("endereco", $endereco, time()+60*60*24);
   setcookie("telefone", $telefone, time()+60*60*24);
   setcookie("email", $email, time()+60*60*24);
+  header("Refresh:3 index.html");
+   echo "Usuário cadastrado com sucesso!";
   
-  header("Location: index.html");
   }
   ?>
