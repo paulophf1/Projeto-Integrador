@@ -27,7 +27,7 @@
                     <a class="nav-link" href="qsm.html">Quem Somos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="cad.html">Cadastre-se</a>
+                    <a class="nav-link" href="cad.php">Cadastre-se</a>
                 </li>
             </ul>
         </nav>
@@ -35,15 +35,15 @@
 
     <div class="secao">
         <div class="container">
-            <h2>Cadastro</h2>
-            <form action="/action_cadastro.php">
+            <h2>Cadastro</h2> 
+            <form method="post" action="cad2.php">
                 <div class="form-group">
                     <label for="name">Nome:</label>
                     <input type="name" class="form-control" id="name" placeholder="Enter name" name="name">
                 </div>
                 <div class="form-group">
-                    <label for="endereco">Endereço:</label>
-                    <input type="endereco" class="form-control" id="endereco" placeholder="Enter endereco" name="endereco">
+                    <label for="endereço">Endereço:</label>
+                    <input type="endereço" class="form-control" id="endereço" placeholder="Enter endereço" name="endereço">
                 </div>
                 <div class="form-group">
                     <label for="telefone">Telefone:</label>
@@ -54,16 +54,15 @@
                     <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
                 </div>
                
-                <button type="button" class="btn btn-warning">Cadastrar</button>
+                <button type="submit" class="btn btn-warning">Cadastrar</button>
             </form>
         </div>
     </div>
-</body>
+  </body>
 
-<footer class="navbar-fixed-buttom">
-    <div class="footer">
-        <span>&copy; 2018 academia Personal Fitness - Santa Cruz</span>
-    </div>
-</footer>
-
+ <footer >
+ </footer>
+ <p></p>    
+ <center><h6> 2018 academia Personal Fitness - Santa Cruz</h6></center>
+ 
 </html>
