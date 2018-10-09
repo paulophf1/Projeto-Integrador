@@ -39,11 +39,11 @@
 
     <div class="container" >
         <p>.</p>
-        <div class="row mt-5 ">
-            <div class="col-sm-4">
+        <div class="row mt-5 justify-content-sm-center">
+            <div class="col-sm-6 col-md-4">
                 <img class="img-fluid" src="img/prec.jpg" alt="Chania" width="460" height="345">
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-6 col-md-4">
                 <h2>Venha conhecer nossos planos</h2>
                 <p>Lorem ipsum ligula at amet mauris pharetra malesuada nulla suspendisse dictum leo iaculis, sem augue posuere
                     pharetra rutrum conubia mollis augue neque auctor. egestas diam himenaeos hendrerit class dolor suscipit
@@ -51,15 +51,15 @@
                     ipsum eu morbi phasellus.
                 </p>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-6 col-md-4">
                 <img class="img-fluid" src="img/mtv.jpg" alt="Chania" width="460" height="345">
             </div>
         </div>
     </div>
     <div class="container my-5">
-        <div class="row mb-5">
-            <div class="col-sm-4">
-                <div class="card">
+        <div class="row mb-5 justify-content-sm-center">
+            <div class="col-sm-6 col-md-4">
+                <div class="card mb-5">
                   <img class="card-img-top" src="img/amigo.jpg">  
                     <div class="card-body">
                         <h4 class="card-tittle">parceiro para todas as coisas</h4>
@@ -68,8 +68,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
-                <div class="card">
+            <div class="col-sm-6 col-md-4">
+                <div class="card mb-5">
                   <img class="card-img-top" src="img/treino.jpg">  
                     <div class="card-body">
                         <h4 class="card-tittle">Treino é treino!</h4>
@@ -78,9 +78,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-6 col-md-4">
             <img class="card-img-top" src="img/luta.jpg">    
-                <div class="card">
+                <div class="card mb-5">
                     <div class="card-body">
                         <h4 class="card-tittle">Treino + Luta</h4>
                         <h6 class="card-subtitle mb-2 text-muted">Treine de segunda a sexta e lute (temos muai tay, jiu jitsu, MMA) e ganhhe desconto de 30%</h6>
@@ -91,9 +91,9 @@
         </div>
     </div> 
     <div class="container">
-        <div class="row mb-5">
-            <div class="col-sm-4">
-                <div class="card">
+        <div class="row mb-5 justify-content-sm-center">
+            <div class="col-sm-6 col-md-4">
+                <div class="card mb-5">
                   <img class="card-img-top" src="img/eco.jpg">  
                     <div class="card-body">
                         <h4 class="card-tittle">Horário Economico</h4>
@@ -102,8 +102,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
-                <div class="card">
+            <div class="col-sm-6 col-md-4">
+                <div class="card mb-5">
                   <img class="card-img-top" src="img/zumba.jpg">  
                     <div class="card-body">
                         <h4 class="card-tittle">Aula de Zumba</h4>
@@ -112,9 +112,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-sm-6 col-md-4">
             <img class="card-img-top" src="img/gratis.jpg">    
-                <div class="card">
+                <div class="card mb-5">
                     <div class="card-body">
                         <h4 class="card-tittle">Crossfit</h4>
                         <h6 class="card-subtitle mb-2 text-muted">Crossfit Grátis (para quem é aluno personal)</h6>
