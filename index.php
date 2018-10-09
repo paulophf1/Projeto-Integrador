@@ -16,7 +16,7 @@
   <header>
     <nav class="navbar navbar-expand-lg bg-primary navbar-dark fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand h1 mb-0" href="index.html">Personal Fitness</a>
+        <a class="navbar-brand h1 mb-0" href="index.php">Personal Fitness</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -51,10 +51,9 @@
       </div>
 
       <div class="col-sm-4">
+      
         <h2>Seja Bem Vindo(a)</h2>
-        <p>Lorem ipsum ligula at amet mauris pharetra malesuada nulla suspendisse dictum leo iaculis, sem augue posuere pharetra
-          rutrum conubia mollis augue neque auctor. egestas diam himenaeos hendrerit class dolor suscipit porta suscipit,
-          interdum a condimentum nulla hac nunc tristique diam dictumst, dolor tristique purus ipsum eu morbi phasellus.</p>
+        <p>Qualidade de vida é um conceito ligado ao desenvolvimento humano. Além da saúde física e mental, é importante que a pessoa esteja bem consigo mesma, com a vida e com aqueles que a cercam. O equilíbrio diz respeito ao controle sobre aquilo que acontece a sua volta. Devem-se buscar hábitos saudáveis como cuidar do corpo, ter uma boa alimentação, ter tempo para o lazer e outras atitudes que façam a pessoa se sentir bem.</p>
       </div>
 
       <div class="col-sm-4">
@@ -70,15 +69,16 @@
       </div>
       <div class="col-sm-4">
         <h3>Melhor equipe Melhores aparelhos do bairro! </h3>
-        <p>Lorem ipsum ligula at amet mauris pharetra malesuada nulla suspendisse dictum leo iaculis, sem augue posuere pharetra
-          rutrum conubia mollis augue neque auctor. egestas diam himenaeos hendrerit class dolor suscipit porta suscipit,
-          interdum a condimentum nulla hac nunc tristique diam dictumst, dolor tristique purus ipsum eu morbi phasellus.</p>
+        <p>A Academia Personal Fitness tem como objetivo promover a qualidade de vida de seus alunos, abrangendo conceitos de bem-estar, saúde e entretenimento. Viver bem significa, também, conciliar a prática de exercícios a uma atitude saudável. De crianças e adolescentes, até a terceira idade, oferecemos atividades adequadas às suas necessidades, objetivos e uma preocupação em comum: manter a saúde e aproveitar melhor a vida!</p>
       </div>
       <div class="col-sm-4">
         <img class="img-fluid" src="img/tdd.jpg" alt="Chania" width="460" height="345">
       </div>
+      
+    </div>
     </div>
   </div>
+  
 </body>
 
 <footer>

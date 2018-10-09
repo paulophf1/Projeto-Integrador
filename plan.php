@@ -45,10 +45,7 @@
             </div>
             <div class="col-sm-6 col-md-4">
                 <h2>Venha conhecer nossos planos</h2>
-                <p>Lorem ipsum ligula at amet mauris pharetra malesuada nulla suspendisse dictum leo iaculis, sem augue posuere
-                    pharetra rutrum conubia mollis augue neque auctor. egestas diam himenaeos hendrerit class dolor suscipit
-                    porta suscipit, interdum a condimentum nulla hac nunc tristique diam dictumst, dolor tristique purus
-                    ipsum eu morbi phasellus.
+                <p>A avaliação física é o ponto inicial para qualquer ótima prática de exercício físico, através dela é possível esclarecer ao profissional qual melhor estratégia a adotar no preparo do seu treino, aumentando potencialmente as chances de obter seu resultado. Através das reavaliações periódicas também é possível acompanhar seu desempenho. Proporcionando ajustes necessários aos treinos de acordo com suas necessidades, aproximando mais você do seu objetivo. Agende já sua avaliação e potencialize seus resultados. Agende seu horário.
                 </p>
             </div>
             <div class="col-sm-6 col-md-4">

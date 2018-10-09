@@ -46,10 +46,7 @@
             </div>
             <div class="col-sm-4">
                 <h3>Somos uma Equipe que Leva nosso trabalho a Sério</h3>
-                <p>Lorem ipsum urna molestie dictumst class curae quam praesent etiam eu, sodales adipiscing sapien convallis
-                    placerat sed mattis rhoncus mattis. vivamus magna malesuada ullamcorper egestas tristique neque tortor
-                    donec orci dictum, dui arcu integer ipsum non turpis vel rutrum nec. aenean nam purus enim molestie erat
-                    nunc FFermentum aenean,
+                <p>A administração trouxe valores que colocam em evidência o bem-estar e a saúde de todos os usuários. Para isso, uma equipe de profissionais capacitados e especializados se uniu para levar conforto e comodidade aos alunos e demais frequentadores do nosso espaço. Tudo gira em torno de um único princípio: A qualidade de vida.
                 </p>
             </div>
             <div class="col-sm-4">
@@ -61,11 +58,8 @@
         <div class="row">
             <div class="col-sm-4">
                 <h3>Desde 2013 crescendo melhorando cada dia</h3>
-                <p>Orci ligula dapibus elit luctus cubilia suscipit sociosqu, porta sollicitudin viverra tempor metus a ullamcorper,
-                    aenean mollis potenti dui quam gravida. torquent mi arcu sociosqu vel nam sem magna diam, rhoncus elit
-                    conubia cubilia ultricies fames eleifend himenaeos donec, dapibus mollis lacus ante massa a erat. lobortis
-                    euismod varius eu ipsum lacus morbi diam orci cubilia, malesuada dui aliquet varius aliquam interdum
-                    cras potenti, vehicula porttitor
+                <p>Localizada em um empreendimento próprio, estamos situados em local estratégico na zona oste de Rio de Janeiro. 
+Buscando melhorar no segmento de atividades físicas, sendo orientado por um único pensamento: oferecer tudo o que você precisa para estar bem, investindo em melhorias nos equipamentos e na estrutura física como um todo.
                 </p>
             </div>
             <div class="col-sm-4">
@@ -73,8 +67,7 @@
             </div>
             <div class="col-sm-4">
                 <h3>Deixa de Frescura e venha treinar conosco</h3>
-                <p>aenean arcu orci lobortis litora pellentesque. molestie euismod sem rutrum venenatis nulla porta ad, tincidunt
-                    pulvinar nisl phasellus aenean tincidunt sodales, rhoncus consequat hac dictum luctus metus. </p>
+                <p>A Academia Personal Fitness é o resultado de um projeto em família, no segmento fitness. Materiais de alta qualidade, aparelhos sofisticados e o melhor espaço para você se sentir em casa, venha crescer com a gente.</p>
             </div>
         </div>
     </div>
