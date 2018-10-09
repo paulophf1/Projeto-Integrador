@@ -14,28 +14,32 @@
 
 <body>
   <header>
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-      <!-- Brand/logo -->
-      <a class="navbar-brand" href="index.php">Personal Fitness</a>
-
-      <!-- Links -->
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" href="plan.php">Planos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="qsm.php">Quem Somos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="cad.php">Cadastre-se</a>
-        </li>
-      </ul>
-    </nav>
+    <nav class="navbar navbar-expand-lg bg-primary navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand h1 mb-0" href="index.php">Personal Fitness</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="plan.php">Planos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="qsm.php">Quem Somos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="cad.php">Cadastre-se</a>
+          </li>    
+        </ul>
+      </div>
+    </div>    
+</nav>
   </header>
 
   <div class="jumbotron text-center">
     <h1>ACADEMIA PERSONAL FITNESS</h1>
-    <p>Resize this responsive page to see the effect!</p>
+    
   </div>
 
   <div class="container">

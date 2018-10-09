@@ -14,23 +14,27 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-            <!-- Brand/logo -->
-            <a class="navbar-brand" href="index.php">Personal Fitness</a>
-
-            <!-- Links -->
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="plan.php">Planos</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="qsm.php">Quem Somos</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="cad.php">Cadastre-se</a>
-                </li>
-            </ul>
-        </nav>
+    <nav class="navbar navbar-expand-lg bg-primary navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand h1 mb-0" href="index.php">Personal Fitness</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="plan.php">Planos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="qsm.php">Quem Somos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="cad.php">Cadastre-se</a>
+          </li>    
+        </ul>
+      </div>
+    </div>    
+</nav>
     </header>
 
     <div class="secao">
@@ -42,8 +46,8 @@
                     <input type="name" class="form-control" id="name" placeholder="Enter name" name="nome">
                 </div>
                 <div class="form-group">
-                    <label for="endereco">Endereço:</label>
-                    <input type="endereco" class="form-control" id="endereço" placeholder="Enter endereço" name="endereco">
+                    <label for="endereco">Endereco:</label>
+                    <input type="endereco" class="form-control" id="endereco" placeholder="Enter endereco" name="endereco">
                 </div>
                 <div class="form-group">
                     <label for="telefone">Telefone:</label>

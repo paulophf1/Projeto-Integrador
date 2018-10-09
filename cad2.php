@@ -24,7 +24,8 @@
   setcookie("telefone", $telefone, time()+60*60*24);
   setcookie("email", $email, time()+60*60*24);
   header("Refresh:3 index.php");
-   echo "Usuário cadastrado com sucesso!";
   
+   echo "Usuário cadastrado com sucesso!";
   }
   ?>
+  
